@@ -1,2 +1,2 @@
 # AI-Project
-My Team 's AI Project (Human Hand Written).  2'nd year
+a cutting-edge software that converts handwritten notes into editable text. Using advanced recognition technology, it seamlessly transforms your paper-based writing into digital text with high accuracy. Whether you’re working with notes, sketches, or handwritten documents, Ink2Words ensures a smooth and efficient transition to a digital format, helping you save time and streamline your workflow. Ideal for students, professionals, and anyone looking to digitize their handwritten materials quickly and easily.
